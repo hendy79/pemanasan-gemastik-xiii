@@ -3,7 +3,6 @@ import java.util.Scanner;
 //Prob H
 
 public class PerjalananKiAdiwijaya {
-
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
 		
